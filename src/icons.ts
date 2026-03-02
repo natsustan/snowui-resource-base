@@ -3151,7 +3151,7 @@ export const icons = <const>[
   {
     name: "dot-square",
     pascal_name: "DotSquare",
-    alias: { name: "DotSquare-", pascal_name: "DotSquare" },
+    alias: { name: "DotSquare", pascal_name: "DotSquare" },
     weights: ["regular", "fill"],
   },
   {
@@ -6824,7 +6824,7 @@ export const icons = <const>[
   {
     name: "radio-2true",
     pascal_name: "Radio2true",
-    alias: { name: "Radio2True", pascal_name: "Radio2true" },
+    alias: { name: "Radio2true", pascal_name: "Radio2true" },
     weights: ["regular"],
   },
   {
@@ -9191,7 +9191,7 @@ export const icons = <const>[
   {
     name: "xcircle-2",
     pascal_name: "Xcircle2",
-    alias: { name: "XCircle2", pascal_name: "Xcircle2" },
+    alias: { name: "Xcircle2", pascal_name: "Xcircle2" },
     weights: ["regular", "thin", "light", "bold", "fill", "duotone"],
   },
   {

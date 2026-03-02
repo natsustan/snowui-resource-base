@@ -28,7 +28,7 @@ async function main() {
   console.log("");
 
   // Avatar 基础尺寸（1x）
-  const avatarBaseSizes = [16, 20, 24, 28, 32, 40, 48, 56, 64, 80, 128, 256, 512];
+  const avatarBaseSizes = [12, 16, 20, 24, 28, 32, 40, 48, 56, 64, 80, 128, 256, 512];
   // 扩展 3x 尺寸，并去重排序
   const avatarSizes = Array.from(
     new Set([
@@ -45,10 +45,10 @@ async function main() {
   console.log("   - Backgrounds: Generating multiple widths (320, 640, 1024, 1920)...");
   console.log("   - Images: Generating multiple widths (160, 320, 640, 1024)...");
   console.log("   - Illustrations: Generating multiple widths (160, 320, 640, 1024)...");
-  const materials = await processMaterials({ 
+  const materials = await processMaterials({
     baseAssetsDir,
     rawAssetsDir,
-    dryRun, 
+    dryRun,
     excludeGroups: ["icons"],
     // Avatars: 正方形尺寸，默认 32x32（仅位图）
     multiSizeGroups: ["avatars"],
