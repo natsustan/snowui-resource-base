@@ -1,0 +1,13 @@
+{
+  "source": "auto",
+  "prefixes": ["ph", "material-symbols", "lucide", "mdi"],
+  "endpoint": "https://api.iconify.design",
+  "updateMappings": "suggest-only",
+  "preserveManualMappings": true,
+  "verifySources": {
+    "ph": "@phosphor-icons/core"
+  },
+  "lock": {
+    "@iconify/json": null
+  }
+}

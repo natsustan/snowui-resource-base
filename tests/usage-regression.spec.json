@@ -1,0 +1,97 @@
+[
+  {
+    "usageName": "arrow-line-right",
+    "mustResolve": {
+      "snowui": "arrow-line-right",
+      "phosphor": "arrow-line-right"
+    }
+  },
+  {
+    "usageName": "arrow-line-left",
+    "mustResolve": {
+      "snowui": "arrow-line-left",
+      "phosphor": "arrow-line-left"
+    }
+  },
+  {
+    "usageName": "arrow-line-up",
+    "mustResolve": {
+      "snowui": "arrow-line-up",
+      "phosphor": "arrow-line-up"
+    }
+  },
+  {
+    "usageName": "arrow-line-down",
+    "mustResolve": {
+      "snowui": "arrow-line-down",
+      "phosphor": "arrow-line-down"
+    }
+  },
+  {
+    "usageName": "clipboard",
+    "mustResolve": {
+      "snowui": "clipboard",
+      "phosphor": "clipboard"
+    }
+  },
+  {
+    "usageName": "copy",
+    "mustResolve": {
+      "snowui": "copy",
+      "phosphor": "copy"
+    }
+  },
+  {
+    "usageName": "x-circle",
+    "mustResolve": {
+      "snowui": "x-circle",
+      "phosphor": "x-circle"
+    }
+  },
+  {
+    "usageName": "star",
+    "mustResolve": {
+      "phosphor": "star"
+    }
+  },
+  {
+    "usageName": "bell",
+    "mustResolve": {
+      "phosphor": "bell"
+    }
+  },
+  {
+    "usageName": "house",
+    "mustResolve": {
+      "phosphor": "house"
+    }
+  },
+  {
+    "usageName": "magnifying-glass",
+    "mustResolve": {
+      "phosphor": "magnifying-glass"
+    }
+  },
+  {
+    "usageName": "four-leaf-clover",
+    "mustResolve": {
+      "snowui": "four-leaf-clover"
+    },
+    "mustNotResolve": {
+      "phosphor": ["building", "factory"]
+    }
+  },
+  {
+    "usageName": "dot-circle",
+    "mustResolve": {
+      "snowui": "dot-circle"
+    }
+  },
+  {
+    "usageName": "docx-icon",
+    "mustResolve": {
+      "special": "docx-icon"
+    },
+    "expectedPreserved": true
+  }
+]

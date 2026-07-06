@@ -1,0 +1,1986 @@
+{
+  "from": "any",
+  "to": "phosphor",
+  "generatedAt": "2026-05-22T05:59:42.345Z",
+  "roots": [
+    "/Users/yuan/Project/snowui/playground",
+    "/Users/yuan/Project/snowui/resource-react-demo",
+    "/Users/yuan/Project/snowui/demo-react"
+  ],
+  "scannedFiles": 28,
+  "summary": {
+    "matched": 68,
+    "degraded": 0,
+    "fallback": 0,
+    "missing": 66,
+    "preserved": 0
+  },
+  "entries": [
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/AutoLayoutSlots-Demo.svelte",
+        "symbol": "CalendarBlank",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "calendar-blank",
+        "usageName": "calendar-blank"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "calendar-blank",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/calendar-blank.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/AutoLayoutSlots-Demo.svelte",
+        "symbol": "CheckCircle",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "check-circle",
+        "usageName": "check-circle"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "check-circle",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/check-circle.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/AutoLayoutSlots-Demo.svelte",
+        "symbol": "Clock",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "clock",
+        "usageName": "clock"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "clock",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/clock.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/AutoLayoutSlots-Demo.svelte",
+        "symbol": "MagnifyingGlass",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "magnifying-glass",
+        "usageName": "magnifying-glass"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "magnifying-glass",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/magnifying-glass.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/AutoLayoutSlots-Demo.svelte",
+        "symbol": "Star",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "star",
+        "usageName": "star"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "star",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/star.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/AutoLayoutSlots-Demo.svelte",
+        "symbol": "Tag",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "tag",
+        "usageName": "tag"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "tag",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/tag.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Avatar-Demo.svelte",
+        "symbol": "AvatarByewind",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Avatar-Demo.svelte",
+        "symbol": "SnowLogo",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Avatar-Demo.svelte",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/AvatarGroup-Demo.svelte",
+        "symbol": "AvatarByewind",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/AvatarGroup-Demo.svelte",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Badge-Demo.svelte",
+        "symbol": "Bell",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "bell",
+        "usageName": "bell"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "bell",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/bell.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Button-Demo.svelte",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/CodeBlock-Demo.svelte",
+        "symbol": "Lightning",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "lightning",
+        "usageName": "lightning"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "lightning",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/lightning.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Default-Size.svelte",
+        "symbol": "Bell",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "bell",
+        "usageName": "bell"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "bell",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/bell.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Form-Demo.svelte",
+        "symbol": "ArrowLineUpDown",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "arrow-line-up-down",
+        "usageName": "arrow-line-up-down"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Form-Demo.svelte",
+        "symbol": "CalendarBlank",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "calendar-blank",
+        "usageName": "calendar-blank"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "calendar-blank",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/calendar-blank.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Form-Demo.svelte",
+        "symbol": "CreditCard",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "credit-card",
+        "usageName": "credit-card"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "credit-card",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/credit-card.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Form-Demo.svelte",
+        "symbol": "Paperclip",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "paperclip",
+        "usageName": "paperclip"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "paperclip",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/paperclip.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Form-Demo.svelte",
+        "symbol": "PaperPlaneRight",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "paper-plane-right",
+        "usageName": "paper-plane-right"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "paper-plane-right",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/paper-plane-right.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Frame-DefaultMotionAutoTrigger.svelte",
+        "symbol": "Bell",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "bell",
+        "usageName": "bell"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "bell",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/bell.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Frame-DefaultMotionDebug.svelte",
+        "symbol": "Bell",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "bell",
+        "usageName": "bell"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "bell",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/bell.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Frame-DefaultMotionDebug.svelte",
+        "symbol": "Star",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "star",
+        "usageName": "star"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "star",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/star.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Icon-Demo.svelte",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Image-Demo.svelte",
+        "symbol": "Image01",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Image-Demo.svelte",
+        "symbol": "Heart",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "heart",
+        "usageName": "heart"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "heart",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/heart.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Image-Demo.svelte",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/ImageViewer-Demo.svelte",
+        "symbol": "Image01",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Input-Demo.svelte",
+        "symbol": "CalendarBlank",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "calendar-blank",
+        "usageName": "calendar-blank"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "calendar-blank",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/calendar-blank.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Input-Demo.svelte",
+        "symbol": "Clock",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "clock",
+        "usageName": "clock"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "clock",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/clock.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Input-Demo.svelte",
+        "symbol": "MagnifyingGlass",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "magnifying-glass",
+        "usageName": "magnifying-glass"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "magnifying-glass",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/magnifying-glass.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/LayoutProtocol-Test.svelte",
+        "symbol": "MagnifyingGlass",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "magnifying-glass",
+        "usageName": "magnifying-glass"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "magnifying-glass",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/magnifying-glass.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/LayoutProtocol-Test.svelte",
+        "symbol": "CaretDown",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "caret-down",
+        "usageName": "caret-down"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "caret-down",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/caret-down.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/LayoutProtocol-Test.svelte",
+        "symbol": "Bell",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "bell",
+        "usageName": "bell"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "bell",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/bell.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/LayoutProtocol-Test.svelte",
+        "symbol": "User",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "user",
+        "usageName": "user"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "user",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/user.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/LayoutProtocol-Test.svelte",
+        "symbol": "Star",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "star",
+        "usageName": "star"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "star",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/star.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/LayoutProtocol-Test.svelte",
+        "symbol": "Check",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "check",
+        "usageName": "check"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "check",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/check.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/LayoutProtocol-Test.svelte",
+        "symbol": "X",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "x",
+        "usageName": "x"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "x",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/x.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/LayoutProtocol-Test.svelte",
+        "symbol": "Plus",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "plus",
+        "usageName": "plus"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "plus",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/plus.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/LayoutProtocol-Test.svelte",
+        "symbol": "Tag",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "tag",
+        "usageName": "tag"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "tag",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/tag.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/LayoutProtocol-Test.svelte",
+        "symbol": "ArrowRight",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "arrow-right",
+        "usageName": "arrow-right"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "arrow-right",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/arrow-right.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/LayoutProtocol-Test.svelte",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/OrchestrationDemo.svelte",
+        "symbol": "Star",
+        "usageKind": "icon-component"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Playground.svelte",
+        "symbol": "Bell",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "bell",
+        "usageName": "bell"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "bell",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/bell.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/SizeCascadeDemo.svelte",
+        "symbol": "Search",
+        "usageKind": "icon-component"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/SizeCascadeDemo.svelte",
+        "symbol": "Plus",
+        "usageKind": "icon-component"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/SizeCascadeDemo.svelte",
+        "symbol": "Settings",
+        "usageKind": "icon-component"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/SizeCascadeDemo.svelte",
+        "symbol": "Home",
+        "usageKind": "icon-component"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/SizeCascadeDemo.svelte",
+        "symbol": "User",
+        "usageKind": "icon-component"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/SizeCascadeDemo.svelte",
+        "symbol": "Search",
+        "usageKind": "icon-component"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/SizeCascadeDemo.svelte",
+        "symbol": "Home",
+        "usageKind": "icon-component"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Tooltip-Edge-Demo.svelte",
+        "symbol": "Bell",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "bell",
+        "usageName": "bell"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "bell",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/bell.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/test/component-registry.ts",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/test/component-registry.ts",
+        "symbol": "AvatarByewind",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/test/component-registry.ts",
+        "symbol": "Bell",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "bell",
+        "usageName": "bell"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "bell",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/bell.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/test/component-registry.ts",
+        "symbol": "Heart",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "heart",
+        "usageName": "heart"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "heart",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/heart.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/test/component-registry.ts",
+        "symbol": "Star",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "star",
+        "usageName": "star"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "star",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/star.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/test/component-registry.ts",
+        "symbol": "Check",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "check",
+        "usageName": "check"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "check",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/check.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/test/component-registry.ts",
+        "symbol": "ArrowLineDown",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "arrow-line-down",
+        "usageName": "arrow-line-down"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "arrow-line-down",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/arrow-line-down.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/test/component-registry.ts",
+        "symbol": "Paperclip",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "paperclip",
+        "usageName": "paperclip"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "paperclip",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/paperclip.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/test/component-registry.ts",
+        "symbol": "PaperPlaneRight",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "paper-plane-right",
+        "usageName": "paper-plane-right"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "paper-plane-right",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/paper-plane-right.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "Heart",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "heart",
+        "usageName": "heart"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "heart",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/heart.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "Check",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "check",
+        "usageName": "check"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "check",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/check.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "SnowLogo",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "WinkingFace",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "Image01",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "Gradient01",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "CursorsDefault",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "Illustration01",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "Dot",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "dot",
+        "usageName": "dot"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "dot",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/dot.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "DotCircle",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "dot-circle",
+        "usageName": "dot-circle"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "Bell",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "bell",
+        "usageName": "bell"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "bell",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/bell.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "ArrowLineUp",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "arrow-line-up",
+        "usageName": "arrow-line-up"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "arrow-line-up",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/arrow-line-up.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "ArrowLineUpDown",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "arrow-line-up-down",
+        "usageName": "arrow-line-up-down"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "ArrowLineDown",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "arrow-line-down",
+        "usageName": "arrow-line-down"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "arrow-line-down",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/arrow-line-down.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "CalendarBlank",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "calendar-blank",
+        "usageName": "calendar-blank"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "calendar-blank",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/calendar-blank.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "CreditCard",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "credit-card",
+        "usageName": "credit-card"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "credit-card",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/credit-card.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "Paperclip",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "paperclip",
+        "usageName": "paperclip"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "paperclip",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/paperclip.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "PaperPlaneRight",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "paper-plane-right",
+        "usageName": "paper-plane-right"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "paper-plane-right",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/paper-plane-right.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "Star",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "star",
+        "usageName": "star"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "star",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/star.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "Github",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "Plus",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "plus",
+        "usageName": "plus"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "plus",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/plus.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "Minus",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "minus",
+        "usageName": "minus"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "minus",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/minus.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "Clock",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "clock",
+        "usageName": "clock"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "clock",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/clock.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "XCircle",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "x-circle",
+        "usageName": "x-circle"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "x-circle",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/x-circle.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "AvatarByewind",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/docs/static/index-BuFcPN5C.js",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/docs/static/index-BuFcPN5C.js",
+        "symbol": "AvatarByewind",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/docs/static/index-BuFcPN5C.js",
+        "symbol": "Gradient01",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/docs/static/index-BuFcPN5C.js",
+        "symbol": "Image01",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/docs/static/index-BuFcPN5C.js",
+        "symbol": "SnowIcon",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/docs/static/index-BuFcPN5C.js",
+        "symbol": "WinkingFace",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/components/Sidebar.tsx",
+        "symbol": "House",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "house",
+        "usageName": "house"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "house",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/house.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/components/Sidebar.tsx",
+        "symbol": "Star",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "star",
+        "usageName": "star"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "star",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/star.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/components/Sidebar.tsx",
+        "symbol": "UserCircle",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "user-circle",
+        "usageName": "user-circle"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "user-circle",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/user-circle.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/components/Sidebar.tsx",
+        "symbol": "Rainbow",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "rainbow",
+        "usageName": "rainbow"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "rainbow",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/rainbow.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/components/Sidebar.tsx",
+        "symbol": "ImageIcon",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/components/Sidebar.tsx",
+        "symbol": "Tag",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "tag",
+        "usageName": "tag"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "tag",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/tag.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/components/Sidebar.tsx",
+        "symbol": "Smiley",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "smiley",
+        "usageName": "smiley"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "smiley",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/smiley.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/components/Sidebar.tsx",
+        "symbol": "Cursor",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "cursor",
+        "usageName": "cursor"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "cursor",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/cursor.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/components/Sidebar.tsx",
+        "symbol": "PaintBrush",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "paint-brush",
+        "usageName": "paint-brush"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "paint-brush",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/paint-brush.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/components/Sidebar.tsx",
+        "symbol": "BookOpen",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "book-open",
+        "usageName": "book-open"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "book-open",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/book-open.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/components/TopBar.tsx",
+        "symbol": "SnowLogo",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/components/TopBar.tsx",
+        "symbol": "Apple",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/components/TopBar.tsx",
+        "symbol": "Sun",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "sun",
+        "usageName": "sun"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "sun",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/sun.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/components/TopBar.tsx",
+        "symbol": "Moon",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "moon",
+        "usageName": "moon"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "moon",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/moon.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/components/TopBar.tsx",
+        "symbol": "Globe",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "globe",
+        "usageName": "globe"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "globe",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/globe.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/pages/Categories.tsx",
+        "symbol": "icons",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/pages/Categories.tsx",
+        "symbol": "componentNames",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/pages/Home.tsx",
+        "symbol": "AvatarByewind",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/pages/Home.tsx",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/pages/Home.tsx",
+        "symbol": "Gradient01",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/pages/Home.tsx",
+        "symbol": "Image01",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/pages/Home.tsx",
+        "symbol": "SnowLogo",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/pages/Home.tsx",
+        "symbol": "WinkingFace",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/pages/Usage.tsx",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/pages/Usage.tsx",
+        "symbol": "AvatarByewind",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/pages/Usage.tsx",
+        "symbol": "Gradient01",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/pages/Usage.tsx",
+        "symbol": "Image01",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/pages/Usage.tsx",
+        "symbol": "Snow",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "snow",
+        "usageName": "snow"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/resource-react-demo/src/pages/Usage.tsx",
+        "symbol": "WinkingFace",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/demo-react/src/SnowUIExample.tsx",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/demo-react/src/SnowUIExample.tsx",
+        "symbol": "icons",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/demo-react/src/SnowUIExample.tsx",
+        "symbol": "AvatarByewind",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/demo-react/src/SnowUIExample.tsx",
+        "symbol": "Gradient01",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/demo-react/src/SnowUIExample.tsx",
+        "symbol": "CursorsBeachball",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/demo-react/src/SnowUIExample.tsx",
+        "symbol": "FaceBlowingKiss",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/demo-react/src/SnowUIExample.tsx",
+        "symbol": "Illustration01",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/demo-react/src/SnowUIExample.tsx",
+        "symbol": "Image01",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/demo-react/src/SnowUIExample.tsx",
+        "symbol": "Google",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/demo-react/src/SnowUIExample.tsx",
+        "symbol": "AddressBook",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "address-book",
+        "usageName": "address-book"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "address-book",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/address-book.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/demo-react/src/SnowUIExample.tsx",
+        "symbol": "AppleIntelligence2a",
+        "usageKind": "named-import"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/demo-react/src/SnowUIExample.tsx",
+        "symbol": "AirplaneLanding",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "phosphor",
+        "iconName": "airplane-landing",
+        "usageName": "airplane-landing"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "airplane-landing",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/airplane-landing.svg"
+      },
+      "bucket": "matched"
+    }
+  ]
+}

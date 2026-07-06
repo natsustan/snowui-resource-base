@@ -1,0 +1,210 @@
+{
+  "from": "snowui",
+  "to": "phosphor",
+  "generatedAt": "2026-05-21T21:15:33.706Z",
+  "roots": [
+    "/Users/yuan/Project/snowui/playground"
+  ],
+  "scannedFiles": 21,
+  "summary": {
+    "matched": 2,
+    "degraded": 0,
+    "fallback": 0,
+    "missing": 11,
+    "preserved": 0
+  },
+  "entries": [
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Avatar-Demo.svelte",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/AvatarGroup-Demo.svelte",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Button-Demo.svelte",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Form-Demo.svelte",
+        "symbol": "ArrowLineUpDown",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "arrow-line-up-down",
+        "usageName": "arrow-line-up-down"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Icon-Demo.svelte",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/Image-Demo.svelte",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/LayoutProtocol-Test.svelte",
+        "symbol": "ArrowRight",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "arrow-right",
+        "usageName": "arrow-right"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "arrow-right",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/arrow-right.svg"
+      },
+      "bucket": "matched"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/demo/LayoutProtocol-Test.svelte",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/test/component-registry.ts",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "FourLeafClover",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "four-leaf-clover",
+        "usageName": "four-leaf-clover"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "DotCircle",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "dot-circle",
+        "usageName": "dot-circle"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "ArrowLineUpDown",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "arrow-line-up-down",
+        "usageName": "arrow-line-up-down"
+      },
+      "bucket": "missing",
+      "reason": "no resolution found in target collection"
+    },
+    {
+      "source": {
+        "file": "/Users/yuan/Project/snowui/playground/vite.config.ts",
+        "symbol": "Xcircle",
+        "usageKind": "named-import"
+      },
+      "current": {
+        "collection": "snowui",
+        "iconName": "xcircle",
+        "usageName": "xcircle"
+      },
+      "target": {
+        "collection": "phosphor",
+        "iconName": "xcircle",
+        "weight": "regular",
+        "path": "icons/phosphor/regular/xcircle.svg"
+      },
+      "bucket": "matched"
+    }
+  ]
+}

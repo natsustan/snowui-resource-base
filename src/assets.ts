@@ -2,7 +2,7 @@ import type { AssetEntry } from "./types";
 
 /**
  * 素材元数据列表
- * 
+ *
  * 此文件由 scripts/process-all.ts 自动生成，请勿手动编辑
  */
 export const assets = <const>[
@@ -8867,10 +8867,11 @@ export const assets = <const>[
   },
   {
     type: "logos",
-    name: "xlogo",
-    pascal_name: "Xlogo",
+    name: "x-logo",
+    pascal_name: "XLogo",
+    alias: { name: "XLogo", pascal_name: "XLogo" },
     files: [
-      { format: "svg", path: "logos/xlogo.svg" }
+      { format: "svg", path: "logos/x-logo.svg" }
     ],
   },
   {
@@ -8883,25 +8884,16 @@ export const assets = <const>[
   },
 ] satisfies readonly AssetEntry[];
 
-/**
- * 根据类型和名称查找素材
- */
 export function findAsset(type: string, name: string): AssetEntry | undefined {
   return assets.find(
     (asset) => asset.type === type && (asset.name === name || asset.alias?.name === name)
   );
 }
 
-/**
- * 根据类型获取所有素材
- */
 export function getAssetsByType(type: string): AssetEntry[] {
   return assets.filter((asset) => asset.type === type);
 }
 
-/**
- * 获取所有素材类型
- */
 export function getAllAssetTypes(): string[] {
   return Array.from(new Set(assets.map((asset) => asset.type)));
 }

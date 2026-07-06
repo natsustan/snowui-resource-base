@@ -12,25 +12,16 @@
       "require": "./src/index.ts",
       "types": "./src/index.ts"
     },
-    "./assets/icons/regular/*.svg": "./assets/icons/regular/*.svg",
-    "./assets/icons/thin/*.svg": "./assets/icons/thin/*.svg",
-    "./assets/icons/light/*.svg": "./assets/icons/light/*.svg",
-    "./assets/icons/bold/*.svg": "./assets/icons/bold/*.svg",
-    "./assets/icons/fill/*.svg": "./assets/icons/fill/*.svg",
-    "./assets/icons/duotone/*.svg": "./assets/icons/duotone/*.svg",
+    "./assets/icons/snowui/*": "./assets/icons/snowui/*",
+    "./assets/icons/phosphor/*": "./assets/icons/phosphor/*",
+    "./assets/icons/special/*": "./assets/icons/special/*",
     "./assets/avatars/*": "./assets/avatars/*",
     "./assets/backgrounds/*": "./assets/backgrounds/*",
     "./assets/cursors/*": "./assets/cursors/*",
     "./assets/emoji/*": "./assets/emoji/*",
     "./assets/illustrations/*": "./assets/illustrations/*",
     "./assets/images/*": "./assets/images/*",
-    "./assets/logos/*": "./assets/logos/*",
-    "./regular/*.svg": "./assets/icons/regular/*.svg",
-    "./thin/*.svg": "./assets/icons/thin/*.svg",
-    "./light/*.svg": "./assets/icons/light/*.svg",
-    "./bold/*.svg": "./assets/icons/bold/*.svg",
-    "./fill/*.svg": "./assets/icons/fill/*.svg",
-    "./duotone/*.svg": "./assets/icons/duotone/*.svg"
+    "./assets/logos/*": "./assets/logos/*"
   },
   "files": [
     "src",
@@ -49,7 +40,14 @@
   "scripts": {
     "process": "tsx scripts/process-all.ts",
     "process:icons": "tsx scripts/process-icons.ts",
-    "process:materials": "tsx scripts/process-materials.ts"
+    "process:materials": "tsx scripts/process-materials.ts",
+    "build:mappings": "tsx scripts/build-mappings.ts",
+    "sync:iconify": "tsx scripts/sync-iconify.ts",
+    "build": "pnpm process && pnpm sync:iconify --mode=auto && pnpm build:mappings && pnpm test:regression",
+    "prepublishOnly": "pnpm build",
+    "scan:usage": "tsx scripts/scan-usage.ts",
+    "check:switch": "tsx scripts/check-switch.ts",
+    "test:regression": "tsx scripts/test-regression.ts"
   },
   "devDependencies": {
     "sharp": "^0.33.0",

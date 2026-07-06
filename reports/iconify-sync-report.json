@@ -1,0 +1,51 @@
+{
+  "mode": "auto",
+  "generatedAt": "2026-07-06T08:58:57.551Z",
+  "source": "api",
+  "config": {
+    "source": "auto",
+    "prefixes": [
+      "ph",
+      "material-symbols",
+      "lucide",
+      "mdi"
+    ],
+    "endpoint": "https://api.iconify.design",
+    "updateMappings": "suggest-only",
+    "preserveManualMappings": true,
+    "verifySources": {
+      "ph": "@phosphor-icons/core"
+    },
+    "lock": {
+      "@iconify/json": null
+    }
+  },
+  "collections": [
+    {
+      "prefix": "ph",
+      "iconCount": 9072,
+      "aliasCount": 37,
+      "license": "MIT"
+    },
+    {
+      "prefix": "material-symbols",
+      "iconCount": 15463,
+      "aliasCount": 2362,
+      "license": "Apache 2.0"
+    },
+    {
+      "prefix": "lucide",
+      "iconCount": 1745,
+      "aliasCount": 216,
+      "license": "ISC"
+    },
+    {
+      "prefix": "mdi",
+      "iconCount": 7447,
+      "aliasCount": 6363,
+      "license": "Apache 2.0"
+    }
+  ],
+  "warnings": [],
+  "breaking": []
+}

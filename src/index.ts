@@ -1,22 +1,31 @@
 /**
- * @snowui-design-system/resource-core
- * 
- * SnowUI Design Resource Core
- * 提供设计素材的元数据和资源文件
+ * @snowui-design-system/resource-base
+ *
+ * SnowUI Design Resource Base
+ * 提供设计素材元数据、跨图标库映射与解析能力。
  */
 
-// 导出类型定义
-export type { IconEntry, AssetEntry, IconWeight } from "./types";
+// 类型
+export type {
+  IconEntry,
+  AssetEntry,
+  IconWeight,
+  IconClass,
+  IconCollectionMeta,
+  IconMappingEntry,
+  ResolvedIcon,
+} from "./types";
 
-// 导出图标元数据
+// 图标元数据
 export {
   icons,
   findIcon,
   findIconByPascalName,
   getAllIconNames,
+  getIconsByCollection,
 } from "./icons";
 
-// 导出素材元数据
+// 素材元数据
 export {
   assets,
   findAsset,
@@ -24,3 +33,30 @@ export {
   getAllAssetTypes,
 } from "./assets";
 
+// Collections
+export {
+  collections,
+  findCollection,
+  listCollectionIds,
+} from "./collections";
+
+// 跨库映射
+export {
+  iconMappings,
+  findIconMapping,
+  listUsageIcons,
+} from "./icon-mappings";
+
+// 权重相似匹配
+export { WEIGHT_SIMILARITY, resolveWeight } from "./weight-similarity";
+
+// 解析器
+export { resolveIcon, resolveIconAsync, listResolutions } from "./icon-resolver";
+
+// Iconify 同步元数据（仅图标名索引，不含 SVG body）
+export {
+  iconifyCollections,
+  findIconifyCollection,
+  hasIconifyIcon,
+  type IconifyCollectionMeta,
+} from "./iconify-collections";
