@@ -1,6 +1,6 @@
 {
   "mode": "auto",
-  "generatedAt": "2026-07-06T08:58:57.551Z",
+  "generatedAt": "2026-07-12T22:08:03.863Z",
   "source": "api",
   "config": {
     "source": "auto",
@@ -29,7 +29,7 @@
     },
     {
       "prefix": "material-symbols",
-      "iconCount": 15463,
+      "iconCount": 15457,
       "aliasCount": 2362,
       "license": "Apache 2.0"
     },
