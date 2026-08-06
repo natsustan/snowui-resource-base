@@ -1,6 +1,6 @@
 {
   "mode": "auto",
-  "generatedAt": "2026-07-12T22:08:03.863Z",
+  "generatedAt": "2026-08-06T15:32:53.085Z",
   "source": "api",
   "config": {
     "source": "auto",
@@ -29,14 +29,14 @@
     },
     {
       "prefix": "material-symbols",
-      "iconCount": 15457,
-      "aliasCount": 2362,
+      "iconCount": 15585,
+      "aliasCount": 8087,
       "license": "Apache 2.0"
     },
     {
       "prefix": "lucide",
-      "iconCount": 1745,
-      "aliasCount": 216,
+      "iconCount": 1756,
+      "aliasCount": 217,
       "license": "ISC"
     },
     {

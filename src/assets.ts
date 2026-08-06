@@ -8801,6 +8801,14 @@ export const assets = <const>[
   },
   {
     type: "logos",
+    name: "svelte",
+    pascal_name: "Svelte",
+    files: [
+      { format: "svg", path: "logos/svelte.svg" }
+    ],
+  },
+  {
+    type: "logos",
     name: "telegram",
     pascal_name: "Telegram",
     files: [
