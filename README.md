@@ -11,6 +11,7 @@ SnowUI 资源基础包，负责处理原始素材、生成公开资源元数据�
 - 跨库映射：同一个 `usageName` 可以映射到不同 collection 的 `iconName`。
 - 权重保留：支持 `regular`、`thin`、`light`、`bold`、`fill`、`duotone`，缺失权重时按相似度降级并记录 `degraded`。
 - Iconify 同步：构建时同步在线图标库名称索引，在线 SVG 解析由 `resource-base` 统一封装。
+- 自适应 Logo：单色黑色与视觉近黑色使用 `currentColor`，供框架组件继承页面文字颜色并适配明暗主题。
 - 切换检查：`check:switch` 可扫描项目使用并模拟切换到目标图标库，输出 `matched / degraded / fallback / missing / preserved` 报告。
 
 ## 目录结构
@@ -22,12 +23,14 @@ resource-base/
 │   │   ├── snowui/
 │   │   ├── phosphor/
 │   │   └── special/
+│   ├── logos/
 │   └── icon-mappings.source.json
 ├── assets/
-│   └── icons/
+│   ├── icons/
 │       ├── snowui/{regular,thin,light,bold,fill,duotone}/
 │       ├── phosphor/{regular,thin,light,bold,fill,duotone}/
 │       └── special/
+│   └── logos/
 ├── src/
 │   ├── collections.ts
 │   ├── icons.ts
