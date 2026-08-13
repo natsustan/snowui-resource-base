@@ -60,19 +60,6 @@ export const iconMappings = <const>[
     }
   },
   {
-    "usageName": "arrow-right",
-    "collections": {
-      "snowui": {
-        "iconName": "arrow-right",
-        "status": "matched"
-      },
-      "phosphor": {
-        "iconName": "arrow-right",
-        "status": "matched"
-      }
-    }
-  },
-  {
     "usageName": "arrows-down-up",
     "collections": {
       "snowui": {

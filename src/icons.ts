@@ -11309,15 +11309,6 @@ export const icons = <const>[
   },
   {
     collection: "snowui",
-    name: "arrow-right",
-    pascal_name: "ArrowRight",
-    alias: { name: "ArrowRight", pascal_name: "ArrowRight" },
-    tags: ["directional", "pointer", "pointing", "arrowhead"],
-    iconClass: "single",
-    weights: ["regular"],
-  },
-  {
-    collection: "snowui",
     name: "arrow-rise",
     pascal_name: "ArrowRise",
     alias: { name: "ArrowRise", pascal_name: "ArrowRise" },

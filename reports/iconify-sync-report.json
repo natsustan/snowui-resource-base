@@ -1,6 +1,6 @@
 {
   "mode": "auto",
-  "generatedAt": "2026-08-06T15:32:53.085Z",
+  "generatedAt": "2026-08-13T18:58:59.658Z",
   "source": "api",
   "config": {
     "source": "auto",
@@ -35,7 +35,7 @@
     },
     {
       "prefix": "lucide",
-      "iconCount": 1756,
+      "iconCount": 1768,
       "aliasCount": 217,
       "license": "ISC"
     },
